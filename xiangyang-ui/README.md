@@ -10,7 +10,7 @@ npm i xiangyang-ui-sacle
 
 示例：
 
-![data-platform-screen - Google Chrome 2023-01-26 10-56-07 (1)](C:\Users\98416\Desktop\data-platform-screen - Google Chrome 2023-01-26 10-56-07 (1).gif)
+![img](https://img-blog.csdnimg.cn/19e0385ca92749278b7ada8ec3dd6058.gif)
 
 使用方法：
 
