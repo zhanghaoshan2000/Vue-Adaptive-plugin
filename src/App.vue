@@ -1,28 +1,30 @@
+<!--
+ * @Author: xiangyang
+ * @Date: 2023-01-26 08:14:21
+ * @LastEditors: xiangyang
+ * @LastEditTime: 2023-01-26 09:26:26
+ * @Description: 
+-->
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <SacleBox>
+      <HelloWorld msg="Welcome to Your Vue.js App" />
+    </SacleBox>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-
+import HelloWorld from "./components/HelloWorld.vue";
+// import SacleBox from "./package/ScaleBox/SacleBox.vue";
 export default {
-  name: 'App',
+  name: "App",
   components: {
-    HelloWorld
-  }
-}
+    HelloWorld,
+    // SacleBox,
+  },
+};
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+
 </style>

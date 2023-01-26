@@ -1,0 +1,16 @@
+{
+  "name": "xiangyang-scale",
+  "version": "1.0.1",
+  "description": "针对数据可视化大屏自适应插件",
+  "main": "xiangyang-ui.common.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "数据可视化",
+    "自适应"
+  ],
+  "author": "xiangyang",
+  "license": "ISC"
+}
