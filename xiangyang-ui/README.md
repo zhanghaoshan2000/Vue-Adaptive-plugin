@@ -16,7 +16,7 @@ npm i xiangyang-ui-sacle
 
 
 
-
+如图：
 
 使用方法：
 
