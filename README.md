@@ -10,8 +10,6 @@ npm i xiangyang-ui-sacle
 
 示例：
 
-
-
 使用方法：
 
 在 main.js 中写入以下内容：
