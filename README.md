@@ -1,4 +1,5 @@
 ## Vue屏幕自适应插件 
+
 针对数据可视化大屏设计
 
 引入方法：
@@ -8,7 +9,15 @@ npm i xiangyang-ui-sacle
 ```
 
 示例：
+
+
+
 ![img](https://img-blog.csdnimg.cn/19e0385ca92749278b7ada8ec3dd6058.gif)
+
+
+
+如图：
+
 使用方法：
 
 在 main.js 中写入以下内容：
