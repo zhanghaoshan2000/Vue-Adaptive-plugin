@@ -10,7 +10,13 @@ npm i xiangyang-ui-sacle
 
 示例：
 
+
+
 ![img](https://img-blog.csdnimg.cn/19e0385ca92749278b7ada8ec3dd6058.gif)
+
+
+
+
 
 使用方法：
 
